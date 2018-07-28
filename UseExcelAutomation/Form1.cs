@@ -18,6 +18,7 @@ namespace UseExcelAutomation
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private static void WriteExcelData()
